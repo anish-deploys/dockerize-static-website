@@ -1,1 +1,0 @@
-# dockerize-static-website
